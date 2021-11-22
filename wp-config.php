@@ -23,7 +23,7 @@
 define( 'DB_NAME', 'u187899028_cacaoexpress' );
 
 /** MySQL database username */
-define( 'DB_USER', 'cacaoexpress' );
+define( 'DB_USER', 'u187899028_cacaoexpress' );
 
 /** MySQL database password */
 define( 'DB_PASSWORD', 'Cet115cacao' );
